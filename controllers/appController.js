@@ -48,6 +48,7 @@ const inicio = async (req, res) => {
     })
 }
 
+
 const categoria = async (req, res) => {
 
     const { id } = req.params
